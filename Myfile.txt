@@ -1,0 +1,20 @@
+Git commands
+-------------------
+1.git clone <repo-url>
+
+2.local repo 
+----------------
+git init -->initialize the folder as git repository
+git status
+git add . --> adds files into staging area
+git commit -m "comiting file"
+git commit -a -->commits all files
+
+initalize local repo adds all files changes and commits to local repo
+-------------------------------
+
+3. pushing changes to a branch in Git
+git remote
+->origin
+
+git push <remote-name> <branch-name>
